@@ -1,0 +1,7 @@
+{
+"prompt": "A haunting surreal visual metaphor of human lungs formed entirely from a dense modern city skyline, skyscrapers and buildings shaping the structure of the lungs. Thick black smoke and pollution fill the lungs from the bottom upward, gradually suffocating them. The upper part is slightly clearer while the lower part is dark, toxic, and dense. The atmosphere is grim, cinematic, and emotionally heavy. Lighting is moody with high contrast, emphasizing the spread of pollution. No text, no labels, no charts. Single frame composition, ultra-detailed, photorealistic, 4K resolution.",
+"model": "DALL·E 3",
+"dataset_name": "Global Burden of Disease – Air Pollution Mortality",
+"dataset_url": "https://ourworldindata.org/air-pollution",
+"insight": "Air pollution silently fills human lungs, leading to millions of deaths each year"
+}
